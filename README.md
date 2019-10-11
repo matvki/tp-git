@@ -1,4 +1,4 @@
-# tp-git
+# Toutes les commandes effectuées
 * tp git
 * git init
 * git status
